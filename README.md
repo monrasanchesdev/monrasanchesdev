@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá, eu sou [Ramon Leão]!
 
 💻 Desenvolvedor **Front-End** focado em criar interfaces modernas, responsivas e com ótima experiência do usuário.
 
@@ -45,7 +45,7 @@ Descrição curta do projeto
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://linkedin.com/in/seu-perfil
-- ✉️ Email: seuemail@email.com
+- 💼 LinkedIn: (https://www.linkedin.com/in/ramonle%C3%A3o/)
+- ✉️ Email: (monrasanchesl.dev@gmail.com) 
 
 ✨ Obrigado por visitar meu perfil!
