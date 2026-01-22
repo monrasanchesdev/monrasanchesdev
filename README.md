@@ -39,7 +39,7 @@ Descrição curta do projeto
 ## 📈 Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monrasanchesdev&show_icons=true&theme=tokyonight)
-![HTML,CSS,JAVASCRIPT,REACT,TYPESCRIPT,ANGULAR](https://github-readme-stats.vercel.app/api/top-langs/?username=monrasanchesdev&layout=compact&theme=html5,css3,javascript,react,angular,git)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monrasanchesdev&layout=compact&theme=html5,css3,javascript,react,angular,git)
 
 ---
 
