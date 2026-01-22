@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Ramon Leão]!
+# 👋 Olá, eu sou Ramon Leão!
 
 💻 Desenvolvedor **Front-End** focado em criar interfaces modernas, responsivas e com ótima experiência do usuário.
 
