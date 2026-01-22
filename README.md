@@ -38,7 +38,7 @@ Descrição curta do projeto
 
 ## 📈 Estatísticas do GitHub
 
-![GitHub Stats](https://github.com/monrasanchesdev)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/monrasanchesdev&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight)
 
 ---
