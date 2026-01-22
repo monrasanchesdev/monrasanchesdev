@@ -45,7 +45,7 @@ Descrição curta do projeto
 
 ## 📫 Contato
 
-- 💼 LinkedIn: (https://www.linkedin.com/in/ramonle%C3%A3o/)
-- ✉️ Email: (monrasanchesl.dev@gmail.com) 
+- 💼 LinkedIn: https://www.linkedin.com/in/ramonle%C3%A3o/
+- ✉️ Email: monrasanchesl.dev@gmail.com 
 
 ✨ Obrigado por visitar meu perfil!
