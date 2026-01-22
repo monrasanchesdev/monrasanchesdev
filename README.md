@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Olá, eu sou [Seu Nome]!
 
-<!--
-**monrasanchesdev/monrasanchesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor **Front-End** focado em criar interfaces modernas, responsivas e com ótima experiência do usuário.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+- 🎯 Desenvolvedor web front-end
+- 🎨 Transformo designs em interfaces funcionais
+- 📚 Sempre aprendendo e evoluindo
+- 🚀 Apaixonado por tecnologia e desenvolvimento web
+
+---
+
+## 🛠️ Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Git & GitHub
+- Figma
+
+---
+
+## 📂 Projetos
+
+🔹 **[Nome do Projeto]**  
+Descrição curta do projeto  
+👉 [Repositório](#)
+
+🔹 **[Nome do Projeto]**  
+Descrição curta do projeto  
+👉 [Repositório](#)
+
+---
+
+## 📈 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: https://linkedin.com/in/seu-perfil
+- ✉️ Email: seuemail@email.com
+
+✨ Obrigado por visitar meu perfil!
